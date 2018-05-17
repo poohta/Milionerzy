@@ -1,0 +1,7 @@
+
+Data: Sat Jan 21 15:08:02 CET 2017                Wygrana: 1000z³
+Data: Sat Jan 21 15:08:39 CET 2017                Wygrana: 1000z³
+Data: Sat Jan 21 15:09:19 CET 2017                Wygrana: 1000000z³
+Data: Sat Jan 21 15:12:56 CET 2017                Wygrana: 500z³
+Data: Wed Jan 25 23:24:24 CET 2017                Wygrana: 500z³
+Data: Sat Mar 17 13:13:35 CET 2018                Wygrana: 2000z³
